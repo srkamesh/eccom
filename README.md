@@ -191,14 +191,6 @@ vercel --prod
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 🎯 Contributors
-
-👤 **Gyan Pratap Singh** – *Developer & Maintainer*  
-📧 Contact: [gps.96169@gmail.com](mailto:gps.96169@gmail.com)  
-🔗 GitHub: [@gyanthakur](https://github.com/Gyanthakur)  
-
-
 ## 🌐 Connect with Us
 
 
